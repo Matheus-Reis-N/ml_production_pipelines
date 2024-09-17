@@ -1,0 +1,4 @@
+pastas = feature_store
+
+.gitkeep
+pipeline.sh ------ não sei oq é
